@@ -42,3 +42,5 @@ exports.calculate = function (expression) {
 
   return tokens[0];
 };
+
+console.log(calculate())
